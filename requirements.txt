@@ -1,0 +1,5 @@
+tensorflow==2.16.1
+keras==3.3.3
+Flask==3.0.2
+Flask_RESTful==0.3.10
+Flask-Cors==1.10.3
